@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Developing
 - 🌱 I’m experienced on C#, .Net Core, Javascript, MySQL and ReAct (Native and JS!)
 - 💞️ I’m looking to collaborate on C# and React projects
-- 📫 How to reach me? mehmet@mehmetdurmaz.com
+- 📫 How to reach me? mehmetdurmaz@gmail.com
 
 <!---
 durmazmehmet/durmazmehmet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
